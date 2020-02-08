@@ -1,0 +1,13 @@
+Maths
+Basic_Tech
+Tech_Drawing
+PHE
+Social_Std
+English
+Basic_Sc
+EssayBasic_Tech
+EssayTech_Drawing
+Home_Econs
+EssayMaths
+EssayBasic_Sc
+EOF
